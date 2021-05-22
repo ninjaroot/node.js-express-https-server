@@ -6,7 +6,7 @@ npm i
 
 node /bin/www
 ###############################################################################################################################################################
-# to create https server with express for beging
+# to create https server with express from beging
 
 
 #run this command to generat express project
