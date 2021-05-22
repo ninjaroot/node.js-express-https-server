@@ -1,6 +1,12 @@
+#run this command to install node.js libraries
 
+npm i
 
+#run this command to start the server
 
+node /bin/www
+###############################################################################################################################################################
+# to create https server with express for beging
 
 
 #run this command to generat express project
